@@ -14,20 +14,32 @@ Computer Science undergraduate at Pranveer Singh Institute of Technology, Kanpur
 
 A lot of what I build sits around AI agents and LLM applications — testing them, grounding them in real sources, and making their behaviour reproducible enough to rely on.
 
-- **Now:** leading PRAMAAN for CodeArambh 2.0 with [Amey Dongre](https://github.com/ameydongre10) and [Tejas Gupta](https://github.com/Tejas-495)
-- **Previously:** ML engineering intern at FlyRank (Jul – Aug 2026)
 - **Studying:** B.Tech in Computer Science and Engineering, PSIT Kanpur (AKTU), graduating May 2028
+- **Previously:** ML engineering intern at FlyRank (Jul – Aug 2026)
+- **Interested in:** backend engineering, LLM applications, and evaluating AI systems
 
-## Featured work
+## Projects
 
 <p>
-<a href="https://github.com/Ujjawal030206/pramaan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pramaan-dark.svg"><img alt="PRAMAAN — an AI advisor for Indian welfare schemes that deletes any sentence no official clause supports. 92.3% answer accuracy with the entailment gate vs 53.8% for an LLM-judged gate." src="assets/card-pramaan-light.svg" width="49%"></picture></a>
 <a href="https://github.com/Ujjawal030206/agent-reliability-engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agent-reliability-engine-dark.svg"><img alt="Agent Reliability Engine — continuous integration for AI agents, 15 adversarial scenarios per run." src="assets/card-agent-reliability-engine-light.svg" width="49%"></picture></a>
 <a href="https://github.com/Ujjawal030206/civicai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-civicai-dark.svg"><img alt="CivicAI — legal and civic guidance with 4 assistant modes over a 5-domain statute knowledge base." src="assets/card-civicai-light.svg" width="49%"></picture></a>
+<a href="https://github.com/Ujjawal030206/pramaan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pramaan-dark.svg"><img alt="PRAMAAN — hackathon project: an AI advisor for Indian welfare schemes with an NLI entailment gate. 92.3% on a 13-question eval vs 53.8% with an LLM-judged gate." src="assets/card-pramaan-light.svg" width="49%"></picture></a>
 <a href="https://github.com/Ujjawal030206/Flyrank-ML-Internship"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-flyrank-dark.svg"><img alt="FlyRank internship — SEO content-refresh scoring over 30,000 production rows, 3 ranking models compared." src="assets/card-flyrank-light.svg" width="49%"></picture></a>
 </p>
 
-**Try them live:** [PRAMAAN](https://pramaan-baxpmqclpervayewtqet9s.streamlit.app/) · [Agent Reliability Engine](https://agent-reliability-engine.onrender.com/) · [CivicAI](https://ujjawal030206.github.io/civicai/)
+**Try them live:** [Agent Reliability Engine](https://agent-reliability-engine.onrender.com/) · [CivicAI](https://ujjawal030206.github.io/civicai/) · [PRAMAAN](https://pramaan-baxpmqclpervayewtqet9s.streamlit.app/)
+
+## Tech stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Languages: Python, Java, JavaScript, SQL. Backend: FastAPI, SQLite, Oracle SQL, Streamlit. Frontend: React, Vite, Tailwind CSS, HTML5, CSS3. Data and ML: pandas, NumPy, scikit-learn, Jupyter, Hugging Face. Tooling: Git, GitHub Actions. AI engineering: LLM APIs, RAG with FAISS and BM25, NLI verification, LLM-as-a-Judge, MCP, REST APIs." src="assets/stack-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img alt="Languages across my public repositories: Python 60%, JavaScript 19%, Jupyter Notebook 11%, HTML 9%." src="assets/languages-light.svg" width="100%">
+</picture>
 
 ## Experience
 
@@ -43,13 +55,6 @@ A lot of what I build sits around AI agents and LLM applications — testing the
 - **Hackwise 2026, IIM Indore** — national finalist
 - **HackerRank** — 4-star rating in Java (data structures and algorithms)
 - **Certifications** — DSA with Java · Generative AI (Google Cloud) · AI Fluency: Framework & Foundations (Anthropic)
-
-## Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Languages: Python, Java, JavaScript, SQL. Backend: FastAPI, REST APIs, SQLite, Oracle SQL, Streamlit. Frontend: React, Vite, Tailwind CSS, HTML/CSS. Data and ML: pandas, NumPy, scikit-learn, Hugging Face Transformers. AI: LLM APIs, RAG with FAISS and BM25, NLI verification, LLM-as-a-Judge, MCP. Tooling: Git, GitHub Actions." src="assets/stack-light.svg" width="100%">
-</picture>
 
 ---
 
