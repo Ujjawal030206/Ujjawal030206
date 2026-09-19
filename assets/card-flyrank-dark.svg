@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="306" viewBox="0 0 480 306" role="img" aria-label="FlyRank internship">
+<style>
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+.fade { animation: fade .7s ease-out backwards; }
+@keyframes fade { from { opacity: 0; transform: translateY(6px); } }
+.blink { animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { fill-opacity: 0; } }
+.strike { animation: strike .5s ease-out backwards; }
+@keyframes strike { from { stroke-dashoffset: 260; } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="305" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="0.5" y="14" width="4" height="278" rx="2" fill="#f5a524"/>
+<g class="fade">
+<text x="32" y="40" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#f5a524" letter-spacing="1">ML ENGINEERING · JUL–AUG 2026</text>
+<text x="452" y="40" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#8b949e">repo →</text>
+<text x="32" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#e6edf3">FlyRank internship</text>
+<text x="32" y="112" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">Scored which SEO content needs a refresh:</text><text x="32" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">feature preparation, model comparison</text><text x="32" y="160" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">and a ranked review queue for editors.</text>
+<line x1="32" y1="186" x2="448" y2="186" stroke="#30363d"/>
+<text x="32" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700" fill="#f5a524">30k</text>
+<text x="116" y="222" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">production rows; 3 ranking models</text><text x="116" y="242" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">compared on ROC AUC, Precision@k</text>
+<text x="32" y="282" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8b949e">pandas · scikit-learn · DuckDB · Jupyter</text>
+</g>
+</svg>
